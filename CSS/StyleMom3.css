@@ -1,0 +1,21 @@
+.absolute_box {
+    width: 300px;
+    height: 300px;
+}
+
+.knapp_block {
+    background-color: rgb(240, 238, 238);
+    text-align: center;
+    margin:auto;
+    width: 75px;
+    height: 28px;
+    border: solid black 1px;
+}
+
+.block {
+    background-color: lightblue;
+    width: 75px;
+    height: 28px;
+    border: solid black 1px;
+    opacity: 0.1;
+}
